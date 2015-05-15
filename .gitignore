@@ -4,3 +4,6 @@
 /.installed.cfg
 .eggs/
 /eggs/
+
+.DS_Store
+.idea
